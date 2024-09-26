@@ -1,1 +1,1 @@
-# Data-for-Northern-Ghana
+Maximum temperature datasets for Northern Ghana

@@ -1,4 +1,4 @@
-Maximum temperature datasets for Northern Ghana
+Daily maximum temperature datasets for Northern Ghana
 
 
 These datasets contain point-based data but do not include the coordinates necessary for spatial plotting.
